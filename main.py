@@ -11,6 +11,6 @@ print(f"Hej, Twój wiek to {age}")
 # funkcja
 def age_question():
     age1 = input("Ile masz lat? ")
-    print(print(f"Hej, Twój wiek to {age}"))
+    print((f"Hej, Twój wiek to {age1}"))
 
 age_question()
