@@ -4,9 +4,10 @@
 # (Pobieranie z konsoli = wczytanie wartości z klawiatury:))
 
 # podstawowe zapytanie
-
 age = input("Ile masz lat? ")
 print(f"Hej, Twój wiek to {age}")
+
+
 
 # funkcja
 def age_question():
@@ -14,3 +15,6 @@ def age_question():
     print((f"Hej, Twój wiek to {age1}"))
 
 age_question()
+
+
+
