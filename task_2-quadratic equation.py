@@ -1,5 +1,5 @@
 import math
-def abc():
+def delta_calculation():
     a = int(input("Podaj pierwszą wartość "))
     b = int(input("Podaj drugą wartość "))
     c = int(input("Podaj trzecią wartość "))
@@ -18,4 +18,4 @@ def abc():
 
 
 
-abc()
+delta_calculation()
